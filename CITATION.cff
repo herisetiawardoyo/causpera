@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use Causpera in research or related work, please cite it as below."
+title: "Causpera: A Causal-Sensitive Sparse Plasticity Framework"
+version: "0.1.0"
+date-released: "2026-05-26"
+authors:
+  - name: "Heri Setia Wardoyo"
+license: "MIT"
+repository-code: "https://github.com/herisetiawardoyo/causpera"
